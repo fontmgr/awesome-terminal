@@ -181,7 +181,7 @@ execute \
 
 # create version file
 
-install_version
+install_fontmgr_version
 
 # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
