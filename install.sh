@@ -88,8 +88,7 @@ if [ -d "$APPDIR/.git" ]; then
     "Updating $APPNAME configurations"
 else
   execute \
-    "backupapp && \
-        git_clone -q $REPO/$APPNAME $APPDIR" \
+    "git_clone -q $REPO/$APPNAME $APPDIR" \
     "Installing $APPNAME configurations"
 fi
 
