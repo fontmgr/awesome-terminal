@@ -3,13 +3,13 @@
 Requires:  
 
 ```shell
-sudo bash -c "$(curl -LSs https://github.com/dfmgr/installer/raw/master/install.sh)"
+sudo bash -c "$(curl -LSs https://github.com/dfmgr/installer/raw/main/install.sh)"
 ```
 
 Automatic:
 
 ```shell
-bash -c "$(curl -LSs https://github.com/fontmgr/awesome-terminal/raw/master/install.sh)"
+bash -c "$(curl -LSs https://github.com/fontmgr/awesome-terminal/raw/main/install.sh)"
 ```
 
 Install:
@@ -27,7 +27,7 @@ sudo fontmgr update awesome-terminal
     
 requires:    
 ```bash
-sudo bash -c "$(curl -LSs https://github.com/casjay-dotfiles/scripts/raw/master/install.sh)" 
+sudo bash -c "$(curl -LSs https://github.com/casjay-dotfiles/scripts/raw/main/install.sh)" 
 ```  
 install:
 ```bash
